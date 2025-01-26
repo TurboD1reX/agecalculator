@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Sora", serif;
+}
+.container-age{
+    padding:5em 2em ;
+    text-align: center;
+    margin:15em auto;
+}
+input{
+    width:100%;
+}
+.text-header{
+    text-align: left !important;
+}
+button{
+    margin:10px 0 0 0;
+    width: 100%;
+    border:0px;
+    background-color: black !important;
+    color:white;
+    border-radius: 5px;
+    padding:5px 0;
+}
